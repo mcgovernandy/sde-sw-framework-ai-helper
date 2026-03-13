@@ -1,0 +1,17 @@
+REPO_PATH: code_lists/medications/CGM/cgm_names.csv
+SITE_URL: https://exeter-diabetes.github.io/sde-sw-framework/code_lists/medications/CGM/cgm_names.csv/
+GITHUB_URL: https://github.com/Exeter-Diabetes/sde-sw-framework/blob/dev/code_lists/medications/CGM/cgm_names.csv
+FILE_NAME: cgm_names.csv
+
+CONTENT_START
+name
+Dexcom
+Freestyle Libre
+Caresens Air
+GlucoMen Day
+TouchCare Nano
+GlucoMen iCan Sensor
+GlucoRx Aidex
+Guardian 4
+Glucose interstitial fluid detect
+

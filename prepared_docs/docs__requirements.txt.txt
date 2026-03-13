@@ -1,0 +1,8 @@
+REPO_PATH: docs/requirements.txt
+SITE_URL: https://exeter-diabetes.github.io/sde-sw-framework/requirements.txt/
+GITHUB_URL: https://github.com/Exeter-Diabetes/sde-sw-framework/blob/dev/docs/requirements.txt
+FILE_NAME: requirements.txt
+
+CONTENT_START
+mkdocs>=1.6.0
+

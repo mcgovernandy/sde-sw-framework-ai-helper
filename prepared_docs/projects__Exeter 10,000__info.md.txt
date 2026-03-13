@@ -1,0 +1,8 @@
+REPO_PATH: projects/Exeter 10,000/info.md
+SITE_URL: https://exeter-diabetes.github.io/sde-sw-framework/projects/Exeter 10,000/info/
+GITHUB_URL: https://github.com/Exeter-Diabetes/sde-sw-framework/blob/dev/projects/Exeter 10,000/info.md
+FILE_NAME: info.md
+
+CONTENT_START
+
+

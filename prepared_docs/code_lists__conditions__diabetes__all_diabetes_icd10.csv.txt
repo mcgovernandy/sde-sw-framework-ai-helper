@@ -1,0 +1,11 @@
+REPO_PATH: code_lists/conditions/diabetes/all_diabetes_icd10.csv
+SITE_URL: https://exeter-diabetes.github.io/sde-sw-framework/code_lists/conditions/diabetes/all_diabetes_icd10.csv/
+GITHUB_URL: https://github.com/Exeter-Diabetes/sde-sw-framework/blob/dev/code_lists/conditions/diabetes/all_diabetes_icd10.csv
+FILE_NAME: all_diabetes_icd10.csv
+
+CONTENT_START
+icd10,term,category
+E10,Type 1 diabetes mellitus,type 1
+E11,Type 2 diabetes mellitus,type 2
+E14,Unspecified diabetes mellitus,unspecified
+

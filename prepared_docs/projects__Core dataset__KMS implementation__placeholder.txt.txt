@@ -1,0 +1,8 @@
+REPO_PATH: projects/Core dataset/KMS implementation/placeholder.txt
+SITE_URL: https://exeter-diabetes.github.io/sde-sw-framework/projects/Core dataset/KMS implementation/placeholder.txt/
+GITHUB_URL: https://github.com/Exeter-Diabetes/sde-sw-framework/blob/dev/projects/Core dataset/KMS implementation/placeholder.txt
+FILE_NAME: placeholder.txt
+
+CONTENT_START
+
+

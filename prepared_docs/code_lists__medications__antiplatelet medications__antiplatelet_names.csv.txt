@@ -1,0 +1,39 @@
+REPO_PATH: code_lists/medications/antiplatelet medications/antiplatelet_names.csv
+SITE_URL: https://exeter-diabetes.github.io/sde-sw-framework/code_lists/medications/antiplatelet medications/antiplatelet_names.csv/
+GITHUB_URL: https://github.com/Exeter-Diabetes/sde-sw-framework/blob/dev/code_lists/medications/antiplatelet medications/antiplatelet_names.csv
+FILE_NAME: antiplatelet_names.csv
+
+CONTENT_START
+﻿generic_name,brand_name
+Aspirin,Angettes
+Aspirin,Aspirin
+Aspirin,Caprin
+Aspirin,Danamep
+Aspirin,Enprin
+Aspirin,Gencardia
+Aspirin,Mandaprin
+Aspirin,Micropirin
+Aspirin,Nu-seals cardio
+Aspirin,PostMI 75
+Aspirin / Isosorbide mononitrate,Imazin
+Clopidogrel,Clopidogrel
+Clopidogrel,Grepid
+Clopidogrel,Plavix
+Dipyridamole,Attia
+Dipyridamole,Dipyridamole
+Dipyridamole,Ofcram
+Dipyridamole,Persantin
+Dipyridamole,Pyridantin
+Dipyridamole,Trolactin
+Dipyridamole / Aspirin,Asasantin
+Dipyridamole / Aspirin,Atransipar
+Dipyridamole / Aspirin,Molita
+Prasugrel,Efient
+Prasugrel,Prafsia
+Prasugrel,Prasugrel
+Ticagrelor,Brilique
+Ticagrelor,Ticagrelor
+Cilostazol,Cilostazol
+Cilostazol,Pletal
+
+
